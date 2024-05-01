@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo apt-get update
+
+sudo apt-get install -y base-passwd bsdutils build-essential chrome-gnome-shell code curl dash dconf-cli diffutils efibootmgr file findutils fonts-indic git gnome-tweaks google-chrome-stable grep grub-common grub-efi-amd64-bin grub-efi-amd64-signed grub-gfxpayload-lists grub-pc grub-pc-bin grub2-common gtk2-engines-murrine gtk2-engines-pixbuf gzip hostname hyphen-en-us init language-pack-en language-pack-en-base language-pack-gnome-en language-pack-gnome-en-base libdebconfclient0 libflashrom1 libftdi1-2 libllvm13 libreoffice-help-common libreoffice-help-en-us linux-generic-hwe-22.04 login mokutil mythes-en-us ncurses-base ncurses-bin network-manager os-prober plymouth-x11 procps python3 python3-pip python3-tk shim-signed thunderbird-locale-en thunderbird-locale-en-us tree ubuntu-desktop ubuntu-desktop-minimal ubuntu-minimal ubuntu-standard ubuntu-wallpapers zsh zsh-syntax-highlighting
